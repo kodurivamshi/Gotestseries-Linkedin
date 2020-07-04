@@ -1,14 +1,14 @@
 document.getElementById('like').addEventListener("click",(event)=>{
-    document.getElementById("li").src="images/liked.jpg";
+    document.getElementById("li").src="/images/liked.jpg";
 })
 
 document.getElementById('like1').addEventListener("click",(event)=>{
-    document.getElementById("li1").src="images/liked.jpg";
+    document.getElementById("li1").src="/images/liked.jpg";
 })
 
 
 document.getElementById('like2').addEventListener("click",(event)=>{
-    document.getElementById("li2").src="images/liked.jpg";
+    document.getElementById("li2").src="/images/liked.jpg";
 })
 
 document.getElementById("comment").addEventListener("click",()=>{
